@@ -1,32 +1,39 @@
 #EXTM3U
-#EXTINF:-1,Geo Entertainment
-http://streamer62.eboundservices.com/geo/geoentertainment_abr/geo/geoentertainment_master/chunks.m3u8?
- 
-#EXTINF:-1,Geo_Kahani
-http://streamer61.eboundservices.com/geo/geokahani_abr/geo/geokahani_master_sub/chunks.m3u8?
- 
-#EXTINF:-1,Geo_Kahani HD
-http://streamer64.ebound.tv/geo/geokahani_abr/geo/geokahani_master/chunks.m3u8?
- 
-#EXTINF:-1,Arydigital.
-http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream_720p/chunks.m3u8?
- 
-#EXTINF:-1,story cartoon
-https://drive.google.com/uc?id=1Jb5P6AkIEaUXh_huB6GqTqTLtrsEQdIJ
 
 #EXTINF:-1, HD HUM TV
 http://ccdn2.jazztv.pk:8085/cast/136-3M/chunks.m3u8
-
-
- 
-#EXTINF:-1,HUM TV
-http://stream.tapmad.com:1935/pitvlive2/humtvnew3/chunklist_w1578022185.m3u8?
  
 #EXTINF:-1,HUM TV 2
+#EXT-X-STREAM-INF:BANDWIDTH=584916,RESOLUTION=640x360,CODECS="avc1.66.30,mp4a.40.2"
 http://stream.tapmad.com:1935/pitvlive2/humtvnew3/chunklist_w1578022185.m3u8??userid=028b4a59-ca80-492e-8000-3e56e2b273d3-1561561595672
  
 #EXTINF:-1, Geo Super
 http://streamer64.eboundservices.com/geo/geosuper_abr/geo/geosuper_master/chunks.m3u8?
+ 
+ #EXTM3U
+#EXTINF:-1,Geo Entertainment2
+#EXT-X-STREAM-INF:BANDWIDTH=584916,RESOLUTION=640x360,CODECS="avc1.66.30,mp4a.40.2"
+http://streamer64.ebound.tv/geo/geoentertainment/chunks.m3u8?nimblesessionid=385476564
+
+
+#EXTINF:-1,Geo Entertainment
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=584916,RESOLUTION=640x360,CODECS="avc1.66.30,mp4a.40.2"
+http://streamer62.eboundservices.com/geo/geoentertainment_abr/geo/geoentertainment_master/chunks.m3u8?
+
+ 
+#EXTINF:-1,Geo_Kahani
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=584916,RESOLUTION=640x360,CODECS="avc1.66.30,mp4a.40.2"
+http://streamer61.eboundservices.com/geo/geokahani_abr/geo/geokahani_master_sub/chunks.m3u8?
+ 
+#EXTINF:-1, Geo Super
+http://streamer64.eboundservices.com/geo/geosuper_abr/geo/geosuper_master/chunks.m3u8?
+#EXTINF:-1,Urdu TV Toronto (CA)
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+
+#EXTINF:-1,Prime Canada TV (CA)
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
  
 #EXTINF:-1,Silver Jewelry Sale
 https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
@@ -52,11 +59,7 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,TRT Cocuk Live
 https://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1250p_av-p.m3u8?sd=10&rebase=on
  
-#EXTINF:-1,Sat7 kids
-http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
- 
-#EXTINF:-1, kids
-http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+
  
 #EXTINF:-1,Travel ch
 http://80.80.160.168/live/3/500000/live.m3u8
