@@ -234,8 +234,7 @@ http://43.251.86.2:8080/hls/channel_1.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
 ##EXTINF:1,INT: BTV
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-##EXTINF:1,INT: SEX TV
-http://188.35.9.26:5031/udp/058j
+
 ##EXTINF:1,ASIA: HBO
 https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
 ##EXTINF:1,USA: HDFashion & LifeStyle
