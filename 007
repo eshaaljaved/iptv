@@ -12,7 +12,7 @@ http://configuration.tn:8000/live/riadh3295/chaaben3295/7556.m3u8
 http://configuration.tn:8000/live/riadh3295/chaaben3295/7557.m3u8
 #EXTINF:-1,geo-entertainment
 http://configuration.tn:8000/live/riadh3295/chaaben3295/7543.m3u8
-EXTINF:-1,midesi-sports
+#EXTINF:-1,midesi-sports
 http://midesi2.hopto.org:8001/tv2.m3u8
 
 #EXTINF:1,See tv
