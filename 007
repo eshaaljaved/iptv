@@ -12,10 +12,9 @@ https://stream.simpaisa.com/pitvlive3/expressent.smil/chunklist_w349482008_b2980
 https://stream.simpaisa.com/pitvlive3/saamanews.smil/chunklist_w2103481341_b748000_slEng.m3u8
 #EXTINF:1,CARTOON NETWORK URDU
 https://stream.simpaisa.com/pitvlive3/cartoonhindi.smil/chunklist_w2095413111_b298000_slENG.m3u8
-#EXTINF:1,
+#EXTINF:1,92news
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:1,
-http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
+
 #EXTINF:1,EawazTV(ca)
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
 #EXTINF:1,Kay2
