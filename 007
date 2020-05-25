@@ -2,19 +2,25 @@
 https://stream.simpaisa.com/pitvlive3/humtvnew3/chunklist_w831529643.m3u8
 #EXTINF:1,Hum Masala
 https://stream.simpaisa.com/pitvlive3/masala.smil/chunklist_w384297478_b298000_slENG.m3u8
+#EXTINF:1,See tv
+https://stream.simpaisa.com/pitvlive3/seetv.smil/chunklist_w1616928588_b748000_slEng.m3u8
 #EXTINF:1,a plus
 https://stream.simpaisa.com/pitvlive3/aplus.smil/chunklist_w120780094_b448000_slENG.m3u8
 #EXTINF:1,PtV Home
 https://stream.simpaisa.com/pitvlive3/ptvhome.smil/chunklist_w1772225385_b298000_slENG.m3u8
 #EXTINF:1,EXPRESS Entertainment
 https://stream.simpaisa.com/pitvlive3/expressent.smil/chunklist_w349482008_b298000_slENG.m3u8
+#EXTINF:1,ARY Digital.tv
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp2/chunks.m3u8
+#EXTINF:1,ARY Digital.tv 2
+https://youtu.be/lDMWKVbMc9I
 #EXTINF:1,saamanews
 https://stream.simpaisa.com/pitvlive3/saamanews.smil/chunklist_w2103481341_b748000_slEng.m3u8
 #EXTINF:1,CARTOON NETWORK URDU
 https://stream.simpaisa.com/pitvlive3/cartoonhindi.smil/chunklist_w2095413111_b298000_slENG.m3u8
-#EXTINF:1,92news
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
+#EXTINF:1, 92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
 #EXTINF:1,EawazTV(ca)
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
 #EXTINF:1,Kay2
@@ -215,8 +221,7 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdn
 https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 ##EXTINF:1,IN: STAR PLUS HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-##EXTINF:1,INT: BRAZZERS TV EU
-http://188.35.9.26:9031/udp/117m
+
 ##EXTINF:1,USA: WWE
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
 ##EXTINF:1,IN: INDIA NEWS
@@ -370,8 +375,7 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 ##EXTINF:1,US: RT
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8
-##EXTINF:1,INT: HUSTLER HD
-http://188.35.9.26:2030/udp/047c
+
 ##EXTINF:1,INT: NYX MEDIA
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist_w805691612.m3u8
 ##EXTINF:1,IN: ZEE HINDUSTAN
