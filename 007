@@ -30,8 +30,9 @@ https://youtu.be/lDMWKVbMc9I
 #EXTINF:1,saamanews
 https://stream.simpaisa.com/pitvlive3/saamanews.smil/chunklist_w2103481341_b748000_slEng.m3u8
 #EXTINF:1,CARTOON NETWORK URDU
+#EXTINF:1,Star Gold
 https://stream.simpaisa.com/pitvlive3/cartoonhindi.smil/chunklist_w2095413111_b298000_slENG.m3u8
-
+http://216.144.250.174/Star_Gold_HD/tracks-v1a1/index.m3u8
 #EXTINF:1, 92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
 #EXTINF:1,EawazTV(ca)
