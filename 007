@@ -2,6 +2,19 @@
 https://stream.simpaisa.com/pitvlive3/humtvnew3/chunklist_w831529643.m3u8
 #EXTINF:1,Hum Masala
 https://stream.simpaisa.com/pitvlive3/masala.smil/chunklist_w384297478_b298000_slENG.m3u8
+#EXTINF:-1,geo-tez
+http://configuration.tn:8000/live/riadh3295/chaaben3295/7545.m3u8
+#EXTINF:-1,Ary Digital
+http://configuration.tn:8000/live/riadh3295/chaaben3295/7555.m3u8
+#EXTINF:-1,ary Family
+http://configuration.tn:8000/live/riadh3295/chaaben3295/7556.m3u8
+#EXTINF:-1,ary Q TV
+http://configuration.tn:8000/live/riadh3295/chaaben3295/7557.m3u8
+#EXTINF:-1,geo-entertainment
+http://configuration.tn:8000/live/riadh3295/chaaben3295/7543.m3u8
+EXTINF:-1,midesi-sports
+http://midesi2.hopto.org:8001/tv2.m3u8
+
 #EXTINF:1,See tv
 https://stream.simpaisa.com/pitvlive3/seetv.smil/chunklist_w1616928588_b748000_slEng.m3u8
 #EXTINF:1,a plus
