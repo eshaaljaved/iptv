@@ -2,6 +2,9 @@
 https://stream.simpaisa.com/pitvlive3/humtvnew3/chunklist_w831529643.m3u8
 #EXTINF:-1,Hum tv Youtube
 https://youtu.be/KT_mUG8-ufo
+
+#EXTINF:-1,Hum tv Youtube 2
+https://www.youtube.com/watch?v=KT_mUG8-ufo&feature=emb_logo
 #EXTINF:-1,Hum Masala
 https://stream.simpaisa.com/pitvlive3/masala.smil/chunklist_w384297478_b298000_slENG.m3u8
 #EXTINF:-1,geo-tez
