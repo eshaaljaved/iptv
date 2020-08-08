@@ -1,119 +1,67 @@
 #EXTM3U
-
-#EXTINF:-1,Urdu 1
+#EXTINF:-1 ,Urdu 1
 https://playlive.goonj.pk/urdu1web_480p/index.m3u8?checkedby:iptvcat.com
-
-
-
-#EXTINF:-1,Play Entertainment
+#EXTINF:-1 ,Play Entertainment
 https://streams.simpaisa.com:8443/pitvlive3/playmax.smil/playlist.m3u8?
-#EXTINF:0,PAK: ARY DIGITAL
+#EXTINF:-1 ,PAK: ARY DIGITAL
 http://stariptv.top:2086/2743/2743/16271
-#EXTINF:0,PAK: ARY MUSIC
+#EXTINF:-1 ,PAK: ARY MUSIC
 http://stariptv.top:2086/2743/2743/17124
-#EXTINF:0,PAK: ARY ZUAQ
+#EXTINF:-1 ,PAK: ARY ZUAQ
 http://stariptv.top:2086/2743/2743/17125
-#EXTINF:0,PAK: HUM TV SITARAY
+#EXTINF:-1 ,PAK: HUM TV SITARAY
 http://stariptv.top:2086/2743/2743/7736
-#EXTINF:0,PAK: HUM MASALA
+#EXTINF:-1 ,PAK: HUM MASALA
 http://stariptv.top:2086/2743/2743/7737
-
-
-#EXTINF:-1,HUM TV 
+#EXTINF:-1 ,HUM TV
 https://streams.simpaisa.com:8443/pitvlive3/humtvnew3/playlist.m3u8?
-#EXTINF:-1,Hum Sitaray
-
+#EXTINF:-1 ,Hum Sitaray
 https://streams.simpaisa.com:8443/pitvlive3/sitaraynew.smil/playlist.m3u8?
-
-#EXTINF:-1,HUM TV SITARAY
-http://stariptv.top:2086/7899/7899/7736?checkedby:iptvcat.com
-
-#EXTINF:-1,HUM TV HD
-http://stariptv.top:2086/7899/7899/6991?checkedby:iptvcat.com
-
-#EXTINF:-1,HUM TV
-https://streams.simpaisa.com:8443/pitvlive3/humtvnew3/playlist.m3u8?
-
-#EXTINF:-1,Geo Kahani
+#EXTINF:-1 ,Geo Kahani
 http://stream-e30453a4b.nmbs.top/m3u/Pakistan/895fb98ab9.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1,Geo Entertainment
+#EXTINF:-1 ,Geo Entertainment
 https://playlive.goonj.pk/geoentweb_480p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, Aaj Entertainment
+#EXTINF:-1 ,Aaj Entertainment
 https://playlive.goonj.pk/aplusweb_480p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1,Express Entertainment
+#EXTINF:-1 ,Express Entertainment
 http://playlive.goonj.pk/expressentweb_480p/index.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:-1,BOL Entertainment
+#EXTINF:-1 ,BOL Entertainment
 https://playlive.goonj.pk/bolentweb_480p/index.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:-1, Aaj Entertainment
-https://playlive.goonj.pk/aplusweb_480p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="pak",Film World
+#EXTINF:-1 group-title="pak" tvg-logo="https://i.imgur.com/q85u7XS.jpg",Film World
 http://playlive.goonj.pk/filmworldweb_480p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="pak",Filmax
+#EXTINF:-1 group-title="pak" tvg-logo="https://i.imgur.com/HKCvQAC.jpg",Filmax
 http://playlive.goonj.pk/filmaxweb_480p/index.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://www.dropbox.com/s/fm6gcndq19z3ut7/amarnettv.live.jpg?raw=1
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://216.144.250.174/Geo_Kahani_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://pbs.twimg.com/profile_images/1029819158622560257/IX7fTqWA_400x400.jpg",Hum News
+http://95.211.211.168/live/humnews0189/playlist.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://pbs.twimg.com/profile_images/443341166327517184/RF5VJboh.jpeg",ARUJ TV
+http://playlive.goonj.pk/arujtvweb_480p/index.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgbG_pz18CsZvZb3OZD65jw1w2cW_H2vweVFb0Ob65PIZDAW-k&usqp=CAU",BOL ENT
 http://playlive.goonj.pk/bolentweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/bolweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/ltnweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQFbgs24zIVqeg/company-logo_200_200/0?e=2159024400&v=beta&t=NbfkjKKxB-g_idiWKHMQq_z6C5XMaSi8gu8YTgqcIXg",PUBLIC NEWS
 http://playlive.goonj.pk/publicnewsweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.imgur.com/kR1tW0o.jpg",Geo Kahani
+http://216.144.250.174/Geo_Kahani_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.imgur.com/DYp5ZUN.png",Geo News
+http://216.144.250.174/Geo_News_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.imgur.com/bQSbZ7j.jpg",Geo Tez
 http://playlive.goonj.pk/filmaxweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/samaaweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/urdu1web_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/filmworldweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/geonewsweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/geoentweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/aajnewsweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/aajentweb_360p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/aplusweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/dawnnewsweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/aajentweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/madnitvweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/makkahweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/neonewsweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/expressentweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/dunyanewsweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://playlive.goonj.pk/8xmweb_480p/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
-#EXTINF:-1,Discovery
-
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.imgur.com/JoO8hEx.jpg",Geo TV
+http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://pbs.twimg.com/profile_images/1131554149/peacetv_400x400.jpg",Peace Tv Urdu
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61oLBxI2FOL._SY355_.png",Ibaadat tv
+http://livechannel.shemaroome.com/linearplayout/ibaadat-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png",Q TV
+https://stream.arylive.com/QtvLive/index.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://pbs.twimg.com/profile_images/1162077176411447301/nzfbidzz_400x400.jpg",LTN FAMILY
+http://playlive.goonj.pk/ltnweb_480p/index.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.imgur.com/B5YD4pD.png",Subrang TV (USA)
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png",Nat geo wild HD
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png",National Geographic
+http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
+#EXTINF:-1  tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+#EXTINF:-1 ,Discovery
 https://streams.simpaisa.com:8443/pitvlive3/discovery.smil/playlist.m3u8?
