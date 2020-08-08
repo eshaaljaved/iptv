@@ -5,8 +5,18 @@ https://playlive.goonj.pk/urdu1web_480p/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1,HUM TV 
 https://streams.simpaisa.com:8443/pitvlive3/humtvnew3/playlist.m3u8?
-#EXTINF:-1,Documentary LINK
-https://iptv-org.github.io/iptv/categories/documentary.m3u
+#EXTINF:-1,ARY FAMILY
+http://stariptv.top:2086/7899/7899/7733
+#EXTINF:-1,ARY DIGITAL
+http://stariptv.top:2086/7899/7899/16271?checkedby:iptvcat.com
+#EXTINF:-1,ARY FAMILY
+http://stariptv.top:2086/7899/7899/7733?checkedby:iptvcat.com
+#EXTINF:-1,ARY MUSIC
+http://stariptv.top:2086/7899/7899/17124?checkedby:iptvcat.com
+#EXTINF:-1,ARY ZUAQ
+http://stariptv.top:2086/7899/7899/17125?checkedby:iptvcat.com
+#EXTINF:-1,AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/master.m3u8?
 
 
 #EXTINF:-1,Discovery
