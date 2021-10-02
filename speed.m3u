@@ -57,6 +57,10 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 
 #EXTINF:-1,Ocean TV
 http://91.192.168.242:9091
+#EXTINF:-1,USA: Motorcyclist
+https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
+#EXTINF:-1,USA: Field & Stream
+https://a.jsrdn.com/broadcast/7536b84786/+0000/low/c.m3u8
 
 
 
@@ -124,6 +128,20 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1,INT: 100% Auto Moto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1,USA: Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/low/c.m3u8
+#EXTINF:-1,USA: World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/low/c.m3u8
 #EXTINF:-1, LUCHA LIBRE AAA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
 #EXTINF:-1,Ring of Honor (STIRR) (720p)
