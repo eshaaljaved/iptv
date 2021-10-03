@@ -8,6 +8,8 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1,KBS World50
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:-1,ME: DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 
 #EXTINF:-1,Sony One50
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
@@ -62,20 +64,24 @@ https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
 #EXTINF:-1,USA: Field & Stream
 https://a.jsrdn.com/broadcast/7536b84786/+0000/low/c.m3u8
 
-
-
+#EXTINF:-1,Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1,Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
 #EXTINF:-1,MostVideo TV HD
 http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:-1,Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+.........kids.....................................
+#EXTINF:-1,Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
 
 
 
 
 
-
-
+.................QVC---------------------------
 
 #EXTINF:-1,Nano TV HD
 http://185.46.48.16/NANO/index.m3u8
@@ -93,11 +99,17 @@ https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
 https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
 #EXTINF:-1,The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1,Silver Jewelry Sale
+https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1,OVC EXTRA
+Http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/1/prog_index.m3u8
 
 
 
 
 
+
+=====================================================================================
 #EXTINF:-1,Betterhealth
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
 
@@ -198,7 +210,8 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 
-
+#EXTINF:-1,INT:Fashion TV (Slovakia)
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1,Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
