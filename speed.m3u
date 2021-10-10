@@ -1,19 +1,148 @@
+#EXTM3U
+#EXTINF:-1,HUM TVHD
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,cartoonnetworkhindikdin
+http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
+
+#EXTINF:-1,HUM-TV-LOCKLE
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,play-entertainment
+https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8?
+
+#EXTINF:-1,Hum-Sitaray
+https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8?
+
+#EXTINF:-1,aplusp1
+
+https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplusp1/chunks.m3u8
+................india............
+#EXTINF:-1,Zee tv 
+http://208.115.215.42/ZEE_Tv_HD_02/index.m3u8
+
+
+
+
+#EXTINF:-1,Zee cinema Hd
+
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
+
+
+#EXTINF:-1,Zee BollyWood hd
+http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Zee Anmol Hd
+http://208.115.215.42/ZEE_Anm0l_HD/index.m3u8
+
+
+#EXTINF:-1,Zee BollyWood 
+http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
+
+#EXTINF:-1,Zee cinema Hd
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Zee Action Hd
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Vijay_TV_HD
+
+http://208.115.215.42/Vijay_TV_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star_Parvah_HD
+http://208.115.215.42/Star_Parvah_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Utsav_Gold_HD
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Utsav_Plus_UK
+http://208.115.215.42/Utsav_Plus_UK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Ten 2 (3)
+http://103.153.39.34:8000/play/a05r/index.m3u8
+#EXTINF:-1,Sony Ten 1
+http://103.153.39.34:8000/play/a042/index.m3u8
+#EXTINF:-1,The Q india
+http://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
+#EXTINF:-1,Sony SAB (3)
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Plus HD (2)
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Parvah
+http://208.115.215.42/Star_Parvah_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Rishtey Cineplex
+http://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:-1,SONY MAX 2
+http://103.153.39.34:8000/play/a06r/index.m3u8
+#EXTINF:-1,Sony Max HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BFlix Movies
+http://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1,Masti Tv
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1,Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1,9X Music
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,Zee Bangla HD (Global-2)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6636/index.m3u8
+#EXTINF:-1,Enter 10 Bangla
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1,Colors Bangla HD
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1,Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Nasa Tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1,TLC SD Hindi
+http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
+#EXTINF:-1,TLC (English)
+http://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
+#EXTINF:-1,Travel XP HD Hindi
+http://mygoodstream.pw/proxy.php/https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:-1,NASA TV
+http://mygoodstream.pw/proxy.php/https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1,Discovery HD [English]
+http://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
+#EXTINF:-1,Discovery Science (English)
+http://idvd.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
+#EXTINF:-1,Discovery Science [HINDI]
+http://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
+#EXTINF:-1,Discovery HD [Hindi]
+http://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:-1,ANIMAL PLANET [Hindi]
+http://idvd.multitvsolution.com/idvo/animalplanethindi_540p/index.m3u8
+#EXTINF:-1,TLC [Hindi]
+http://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
+#EXTINF:-1,TLC HD [English]
+http://idvd.multitvsolution.com/idvo/tlchd_540p/index.m3u8
+#EXTINF:-1,ANIMAL PLANET (Eng)
+http://idvd.multitvsolution.com/idvo/animalplaneteng_540p/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
+#EXTINF:-1,Discovery Turbo [English]
+http://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+#EXTINF:-1,TLC HD Hindi
+http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
+#EXTINF:-1,Mr Bean Show
+https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
+#EXTINF:-1,Sonic (2)
+http://103.153.39.34:8000/play/a04p/index.m3u8
+
+
+............................................................
+
+
 #EXTINF:-1,Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1,HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
 #EXTINF:-1,HBO 2
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
 #EXTINF:-1,KBS World50
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1,ME: DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
-
 #EXTINF:-1,Sony One50
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-
 #EXTINF:-1,BHtv
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 #EXTINF:-1,BHtv
@@ -22,26 +151,20 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1,Watan TV
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1,WOW!TV HD
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-
 #EXTINF:-1,YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
-
 #EXTINF:-1,СТВ
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
 #EXTINF:-1,东南卫视
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/dongnanstv/1.m3u8
-
-
 #EXTINF:-1,Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
 #EXTINF:-1,Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-
 #EXTINF:-1,TV5 Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
 #EXTINF:-1,TLX
@@ -50,41 +173,67 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1,EBS English
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-
 #EXTINF:-1,MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-
 #EXTINF:-1,Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-
 #EXTINF:-1,Ocean TV
 http://91.192.168.242:9091
 #EXTINF:-1,USA: Motorcyclist
 https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
 #EXTINF:-1,USA: Field & Stream
 https://a.jsrdn.com/broadcast/7536b84786/+0000/low/c.m3u8
-
 #EXTINF:-1,Life Punjabi
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1,Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-
 #EXTINF:-1,MostVideo TV HD
 http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:-1,Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 .........kids.....................................
-#EXTINF:-1,Akaram Kidz
-http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
+#EXTINF:-1,Disney Channel- Hindi (1)
+http://103.153.39.34:8000/play/a04m/index.m3u8
+#EXTINF:-1,Disney Channel
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-1,Disney XD (2)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
+#EXTINF:-1,Hungama Tv
+http://103.153.39.34:8000/play/a04l/index.m3u8
+#EXTINF:-1,Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,Discovery Kids
+http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
+#EXTINF:-1,Nick Junior (2)
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1,Marvel HQ HD
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+#EXTINF:-1,Nick JunioR - Hindi
+http://103.153.39.34:8000/play/a04r/index.m3u8
+
+
+
+...............................................
+#EXTINF:-1, $ Discovery
+http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
+#EXTINF:-1, Discovery German TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:-1, $ Better Nature US
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1,Animal Planet HD
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1,TRAVEL MIX
+http://89.38.8.131:39520
+#EXTINF:-1,This Old House
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=618&deviceId=5d51e791b7dba3b2ae990ab2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
 
 
 
 .................QVC---------------------------
-
-#EXTINF:-1,Nano TV HD
-http://185.46.48.16/NANO/index.m3u8
 #EXTINF:-1,Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,Beauty IQ
@@ -101,444 +250,8 @@ https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1,Silver Jewelry Sale
 https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1,OVC EXTRA
-Http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/1/prog_index.m3u8
-.............................1970-------------------------
-#EXTM3U
-
-#EXTINF:-1,TR: METROPOL BARBIE
-http://on7.media:8080/aydar/b7p6rzZhEU/2
-#EXTINF:-1,TR: METROPOL EGE ILE GAGA
-http://on7.media:8080/aydar/b7p6rzZhEU/5
-#EXTINF:-1,TR: ELIT HD ANIMASYON 2
-http://on7.media:8080/aydar/b7p6rzZhEU/6
-#EXTINF:-1,TR: ELIT HD ANIMASYON 3
-http://on7.media:8080/aydar/b7p6rzZhEU/7
-#EXTINF:-1,TR: METROPOL KONUSAN TOM
-http://on7.media:8080/aydar/b7p6rzZhEU/12
-#EXTINF:-1,TR: METROPOL DORU
-http://on7.media:8080/aydar/b7p6rzZhEU/22
-#EXTINF:-1,TR: METROPOL ELIFIN DUSLERI
-http://on7.media:8080/aydar/b7p6rzZhEU/23
-#EXTINF:-1,TR: METROPOL HAPSUU
-http://on7.media:8080/aydar/b7p6rzZhEU/24
-#EXTINF:-1,TR: METROPOL KARE
-http://on7.media:8080/aydar/b7p6rzZhEU/25
-#EXTINF:-1,TR: METROPOL KELOGLAN
-http://on7.media:8080/aydar/b7p6rzZhEU/26
-#EXTINF:-1,TR: METROPOL KUKILI
-http://on7.media:8080/aydar/b7p6rzZhEU/27
-#EXTINF:-1,TR: METROPOL MASAL
-http://on7.media:8080/aydar/b7p6rzZhEU/29
-#EXTINF:-1,TR: METROPOL PJ MASKELILER
-http://on7.media:8080/aydar/b7p6rzZhEU/30
-#EXTINF:-1,TR: AKILLI TAVSAN MOMO
-http://on7.media:8080/aydar/b7p6rzZhEU/31
-#EXTINF:-1,TR: METROPOL BOOBA
-http://on7.media:8080/aydar/b7p6rzZhEU/32
-#EXTINF:-1,TR: METROPOL CAILLOU
-http://on7.media:8080/aydar/b7p6rzZhEU/33
-#EXTINF:-1,TR: METROPOL CHICKY
-http://on7.media:8080/aydar/b7p6rzZhEU/34
-#EXTINF:-1,TR: METROPOL MASA ILE KOCA AYI
-http://on7.media:8080/aydar/b7p6rzZhEU/35
-#EXTINF:-1,TR: ELIT NILOYA
-http://on7.media:8080/aydar/b7p6rzZhEU/36
-#EXTINF:-1,TR: METROPOL PEPPA PIG
-http://on7.media:8080/aydar/b7p6rzZhEU/37
-#EXTINF:-1,TR: METROPOL PEPE TV
-http://on7.media:8080/aydar/b7p6rzZhEU/38
-#EXTINF:-1,TR: METROPOL SIRINLER
-http://on7.media:8080/aydar/b7p6rzZhEU/39
-#EXTINF:-1,TR: METROPOL LOONEY TUNES
-http://on7.media:8080/aydar/b7p6rzZhEU/45
-#EXTINF:-1,TR: ELIT HD ANIMASYON 1
-http://on7.media:8080/aydar/b7p6rzZhEU/49
-#EXTINF:-1,TR: METROPOL KRAL SAKIR
-http://on7.media:8080/aydar/b7p6rzZhEU/50
-#EXTINF:-1,TR: ELIT HD COCUK
-http://on7.media:8080/aydar/b7p6rzZhEU/51
-#EXTINF:-1,TR: METROPOL ASLAN
-http://on7.media:8080/aydar/b7p6rzZhEU/97
-#EXTINF:-1,TR: METROPOL RAFADAN TAYFA
-http://on7.media:8080/aydar/b7p6rzZhEU/98
-#EXTINF:-1,TR: METROPOL TOM VE JERRY
-http://on7.media:8080/aydar/b7p6rzZhEU/100
-#EXTINF:-1,TR: METROPOL KUZUCUK
-http://on7.media:8080/aydar/b7p6rzZhEU/154
-#EXTINF:-1,TR:CINETIME ANIMASYON 1
-http://on7.media:8080/aydar/b7p6rzZhEU/327
-#EXTINF:-1,TR:CINETIME ANIMASYON 2
-http://on7.media:8080/aydar/b7p6rzZhEU/328
-#EXTINF:-1,DE: ON7 MEDYA ACTION
-http://on7.media:8080/aydar/b7p6rzZhEU/40
-#EXTINF:-1,DE: ON7 MEDYA ANIMATION
-http://on7.media:8080/aydar/b7p6rzZhEU/41
-#EXTINF:-1,DE: ON7 MEDYA DRAM
-http://on7.media:8080/aydar/b7p6rzZhEU/42
-#EXTINF:-1,DE: ON7 MEDYA FAMILIE
-http://on7.media:8080/aydar/b7p6rzZhEU/43
-#EXTINF:-1,DE: ON7 MEDYA HORROR
-http://on7.media:8080/aydar/b7p6rzZhEU/44
-#EXTINF:-1,DE: ON7 MEDYA COMEDY
-http://on7.media:8080/aydar/b7p6rzZhEU/48
-#EXTINF:-1,DE: ON7 MEDYA SCI-FI
-http://on7.media:8080/aydar/b7p6rzZhEU/93
-#EXTINF:-1,DE: ON7 MEDYA HARRY POTTER
-http://on7.media:8080/aydar/b7p6rzZhEU/94
-#EXTINF:-1,DE: ON7 MEDYA MARVEL
-http://on7.media:8080/aydar/b7p6rzZhEU/95
-#EXTINF:-1,DE: ON7 MEDYA JAMES BOND
-http://on7.media:8080/aydar/b7p6rzZhEU/99
-#EXTINF:-1,DE: ON7 MEDYA STARS WARS
-http://on7.media:8080/aydar/b7p6rzZhEU/130
-#EXTINF:-1,DE: Peter Hase
-http://on7.media:8080/aydar/b7p6rzZhEU/153
-#EXTINF:-1,SKY SELECT HD 3
-http://on7.media:8080/aydar/b7p6rzZhEU/283
-#EXTINF:-1,SKY SELECT HD 2
-http://on7.media:8080/aydar/b7p6rzZhEU/284
-#EXTINF:-1,SKY SELECT HD 1
-http://on7.media:8080/aydar/b7p6rzZhEU/287
-#EXTINF:-1,SKY SELECT HD 4
-http://on7.media:8080/aydar/b7p6rzZhEU/288
-#EXTINF:-1,SKY SELECT HD 5
-http://on7.media:8080/aydar/b7p6rzZhEU/289
-#EXTINF:-1,SKY SELECT HD 6
-http://on7.media:8080/aydar/b7p6rzZhEU/290
-#EXTINF:-1,SKY SELECT HD 7
-http://on7.media:8080/aydar/b7p6rzZhEU/291
-#EXTINF:-1,SKY SELECT HD 8
-http://on7.media:8080/aydar/b7p6rzZhEU/292
-#EXTINF:-1,SKY SELECT HD 9
-http://on7.media:8080/aydar/b7p6rzZhEU/293
-#EXTINF:-1,SKY SELECT HD 10
-http://on7.media:8080/aydar/b7p6rzZhEU/294
-#EXTINF:-1,TR: ELIT BOX OFFICE HD 1
-http://on7.media:8080/aydar/b7p6rzZhEU/52
-#EXTINF:-1,TR: ELIT BOX OFFICE HD 2
-http://on7.media:8080/aydar/b7p6rzZhEU/53
-#EXTINF:-1,TR: ELIT BOX OFFICE HD 3
-http://on7.media:8080/aydar/b7p6rzZhEU/54
-#EXTINF:-1,TR: ELIT BILIM KURGU 1
-http://on7.media:8080/aydar/b7p6rzZhEU/55
-#EXTINF:-1,TR: ELIT SINEMA AKSIYON
-http://on7.media:8080/aydar/b7p6rzZhEU/56
-#EXTINF:-1,TR: ELIT AILE 1
-http://on7.media:8080/aydar/b7p6rzZhEU/58
-#EXTINF:-1,TR: ELIT AILE 2
-http://on7.media:8080/aydar/b7p6rzZhEU/59
-#EXTINF:-1,TR: ELIT BILIM KURGU 2
-http://on7.media:8080/aydar/b7p6rzZhEU/65
-#EXTINF:-1,TR: ELIT MOVİES FESTIVAL
-http://on7.media:8080/aydar/b7p6rzZhEU/66
-#EXTINF:-1,TR: ELIT SINEMA KOMEDI 2
-http://on7.media:8080/aydar/b7p6rzZhEU/67
-#EXTINF:-1,TR: ELIT SINEMA KOMEDI
-http://on7.media:8080/aydar/b7p6rzZhEU/68
-#EXTINF:-1,TR: ELIT KORKU 1
-http://on7.media:8080/aydar/b7p6rzZhEU/69
-#EXTINF:-1,TR: ELIT KORKU 2
-http://on7.media:8080/aydar/b7p6rzZhEU/71
-#EXTINF:-1,TR: ELIT MOVIES FAMILY
-http://on7.media:8080/aydar/b7p6rzZhEU/72
-#EXTINF:-1,TR: ELIT MOVIES PREMIER 2
-http://on7.media:8080/aydar/b7p6rzZhEU/74
-#EXTINF:-1,TR: TR: ELIT MOVIES STAR
-http://on7.media:8080/aydar/b7p6rzZhEU/75
-#EXTINF:-1,TR: ELIT MOVIES COMEDY
-http://on7.media:8080/aydar/b7p6rzZhEU/76
-#EXTINF:-1,TR: ELIT NETFLIX 1
-http://on7.media:8080/aydar/b7p6rzZhEU/77
-#EXTINF:-1,TR: ELIT NETFLIX 2
-http://on7.media:8080/aydar/b7p6rzZhEU/78
-#EXTINF:-1,TR: ELIT NETFLIX 3
-http://on7.media:8080/aydar/b7p6rzZhEU/79
-#EXTINF:-1,TR: ELIT SMART CLASSIC
-http://on7.media:8080/aydar/b7p6rzZhEU/81
-#EXTINF:-1,TR: ELIT SINEMA YERLI 
-http://on7.media:8080/aydar/b7p6rzZhEU/83
-#EXTINF:-1,TR: ELIT SMART TURK
-http://on7.media:8080/aydar/b7p6rzZhEU/84
-#EXTINF:-1,TR: ELIT SINEMA YERLI 2
-http://on7.media:8080/aydar/b7p6rzZhEU/85
-#EXTINF:-1,TR: ELIT YESILCAM 1
-http://on7.media:8080/aydar/b7p6rzZhEU/86
-#EXTINF:-1,TR: ELIT YESILCAM 2
-http://on7.media:8080/aydar/b7p6rzZhEU/87
-#EXTINF:-1,TR: ELIT YESILCAM 3
-http://on7.media:8080/aydar/b7p6rzZhEU/88
-#EXTINF:-1,TR: ELIT KEMAL SUNAL
-http://on7.media:8080/aydar/b7p6rzZhEU/89
-#EXTINF:-1,TR: ELIT MOVIES ACTION
-http://on7.media:8080/aydar/b7p6rzZhEU/90
-#EXTINF:-1,TR: ELIT MOVIES ACTION 2
-http://on7.media:8080/aydar/b7p6rzZhEU/91
-#EXTINF:-1,TR: METROPOL VIZYON
-http://on7.media:8080/aydar/b7p6rzZhEU/96
-#EXTINF:-1,TR: ELIT SINEMA 1001
-http://on7.media:8080/aydar/b7p6rzZhEU/109
-#EXTINF:-1,TR: ELIT SINEMA 1002
-http://on7.media:8080/aydar/b7p6rzZhEU/110
-#EXTINF:-1,TR: ELIT SINEMA KOMEDI 2
-http://on7.media:8080/aydar/b7p6rzZhEU/111
-#EXTINF:-1,TR: ELIT MOVIES COMEDY
-http://on7.media:8080/aydar/b7p6rzZhEU/112
-#EXTINF:-1,TR: ELIT MOVIES FAMILY
-http://on7.media:8080/aydar/b7p6rzZhEU/113
-#EXTINF:-1,TR: ELIT MOVIES STAR
-http://on7.media:8080/aydar/b7p6rzZhEU/115
-#EXTINF:-1,TR: ELIT MOVIES TURK
-http://on7.media:8080/aydar/b7p6rzZhEU/116
-#EXTINF:-1,TR: ELIT SINEMA YERLI
-http://on7.media:8080/aydar/b7p6rzZhEU/117
-#EXTINF:-1,TR: ELIT SMART ACTION
-http://on7.media:8080/aydar/b7p6rzZhEU/123
-#EXTINF:-1,TR: ELIT SMART CLASSIC
-http://on7.media:8080/aydar/b7p6rzZhEU/124
-#EXTINF:-1,TR: ELIT SMART TURK
-http://on7.media:8080/aydar/b7p6rzZhEU/125
-#EXTINF:-1,TR: TVIPX YESILCAM
-http://on7.media:8080/aydar/b7p6rzZhEU/126
-#EXTINF:-1,TR: ELİT SINEMA ACTION 2
-http://on7.media:8080/aydar/b7p6rzZhEU/127
-#EXTINF:-1,TR: PLUS BILIM KURGU HD
-http://on7.media:8080/aydar/b7p6rzZhEU/131
-#EXTINF:-1,TR: PLUS BOLLYWOOD HD
-http://on7.media:8080/aydar/b7p6rzZhEU/132
-#EXTINF:-1,TR: PLUS GERILIM HD
-http://on7.media:8080/aydar/b7p6rzZhEU/133
-#EXTINF:-1,TR: PLUS KORKU HD
-http://on7.media:8080/aydar/b7p6rzZhEU/134
-#EXTINF:-1,TR: PLUS OSCAR HD
-http://on7.media:8080/aydar/b7p6rzZhEU/135
-#EXTINF:-1,TR: PLUS YESILCAM HD
-http://on7.media:8080/aydar/b7p6rzZhEU/136
-#EXTINF:-1,TR: PLUS TURK HD
-http://on7.media:8080/aydar/b7p6rzZhEU/137
-#EXTINF:-1,TR: STANDUP
-http://on7.media:8080/aydar/b7p6rzZhEU/186
-#EXTINF:-1,TR :ON7 MEDİA MARVEL
-http://on7.media:8080/aydar/b7p6rzZhEU/236
-#EXTINF:-1,TR: ELIT MOVIES PREMIER 1
-http://on7.media:8080/aydar/b7p6rzZhEU/272
-#EXTINF:-1,TVPİPX KEMAL SUNAL
-http://on7.media:8080/aydar/b7p6rzZhEU/278
-#EXTINF:-1,TVİP YESILCAM 2
-http://on7.media:8080/aydar/b7p6rzZhEU/279
-#EXTINF:-1,TVİP YESILCAM 3
-http://on7.media:8080/aydar/b7p6rzZhEU/280
-#EXTINF:-1,TR:CINETIME WESTERN
-http://on7.media:8080/aydar/b7p6rzZhEU/318
-#EXTINF:-1,TR:CINETIME AİLE 1
-http://on7.media:8080/aydar/b7p6rzZhEU/319
-#EXTINF:-1,TR:CINETIME AILE 2
-http://on7.media:8080/aydar/b7p6rzZhEU/320
-#EXTINF:-1,TR:CINETIME AKSIYON 1
-http://on7.media:8080/aydar/b7p6rzZhEU/321
-#EXTINF:-1,TR:CINETIME AKSIYON 2
-http://on7.media:8080/aydar/b7p6rzZhEU/322
-#EXTINF:-1,TR:CINETIME AKSIYON 3
-http://on7.media:8080/aydar/b7p6rzZhEU/323
-#EXTINF:-1,TR:CINETIME KORKU 1
-http://on7.media:8080/aydar/b7p6rzZhEU/324
-#EXTINF:-1,TR:CINETIME KORKU 2
-http://on7.media:8080/aydar/b7p6rzZhEU/325
-#EXTINF:-1,TR:CINETIME KORKU 3
-http://on7.media:8080/aydar/b7p6rzZhEU/326
-#EXTINF:-1,TR:CINETIME ANIMASYON 3
-http://on7.media:8080/aydar/b7p6rzZhEU/329
-#EXTINF:-1,TR:CINETIME FANTASTIK
-http://on7.media:8080/aydar/b7p6rzZhEU/330
-#EXTINF:-1,TR:CINETIME KOMEDI 1
-http://on7.media:8080/aydar/b7p6rzZhEU/331
-#EXTINF:-1,TR:CINETIME KOMEDI 2
-http://on7.media:8080/aydar/b7p6rzZhEU/332
-#EXTINF:-1,TR:CINETIME MARVEL
-http://on7.media:8080/aydar/b7p6rzZhEU/333
-#EXTINF:-1,TR:CINETIME NETFLIX 1
-http://on7.media:8080/aydar/b7p6rzZhEU/334
-#EXTINF:-1,TR:CINETIME NETFLIX 2
-http://on7.media:8080/aydar/b7p6rzZhEU/335
-#EXTINF:-1,TR:CINETIME NETFLIX 3
-http://on7.media:8080/aydar/b7p6rzZhEU/336
-#EXTINF:-1,TR:CINETIME PREMIER
-http://on7.media:8080/aydar/b7p6rzZhEU/337
-#EXTINF:-1,TR:CINETIME SCI-FI 1
-http://on7.media:8080/aydar/b7p6rzZhEU/338
-#EXTINF:-1,TR.CINETIME SCI- FI 2
-http://on7.media:8080/aydar/b7p6rzZhEU/339
-#EXTINF:-1,TR:CINETIME SCI-FI 3
-http://on7.media:8080/aydar/b7p6rzZhEU/340
-#EXTINF:-1,TR:CINETIME SHOW
-http://on7.media:8080/aydar/b7p6rzZhEU/341
-#EXTINF:-1,TR:CINETIME TURK 1
-http://on7.media:8080/aydar/b7p6rzZhEU/342
-#EXTINF:-1,TR:CINETIME TURK 2
-http://on7.media:8080/aydar/b7p6rzZhEU/343
-#EXTINF:-1,TR:CINETIME TURK 3
-http://on7.media:8080/aydar/b7p6rzZhEU/344
-#EXTINF:-1,TR:CINETIME TURK 4
-http://on7.media:8080/aydar/b7p6rzZhEU/345
-#EXTINF:-1,TR:CINETIME TURK 5
-http://on7.media:8080/aydar/b7p6rzZhEU/346
-#EXTINF:-1,TR:CINETIME YESILCAM 1
-http://on7.media:8080/aydar/b7p6rzZhEU/347
-#EXTINF:-1,TR:CINETIME YESILCAM 2
-http://on7.media:8080/aydar/b7p6rzZhEU/348
-#EXTINF:-1,TR:CINETIME YESILCAM 3
-http://on7.media:8080/aydar/b7p6rzZhEU/349
-#EXTINF:-1,BOXET:RECEP IVEDIK
-http://on7.media:8080/aydar/b7p6rzZhEU/373
-#EXTINF:-1,BOXET:CAKALLARLA DANS
-http://on7.media:8080/aydar/b7p6rzZhEU/374
-#EXTINF:-1,BOXET:HARRY POTTER
-http://on7.media:8080/aydar/b7p6rzZhEU/375
-#EXTINF:-1,BOXET:HIZLIVE OFKELI
-http://on7.media:8080/aydar/b7p6rzZhEU/376
-#EXTINF:-1,BOXET:ELM SOKAGINDA KABUS
-http://on7.media:8080/aydar/b7p6rzZhEU/377
-#EXTINF:-1,BOXET:AMERIKAN PASTASI
-http://on7.media:8080/aydar/b7p6rzZhEU/378
-#EXTINF:-1,BOXET:POLIS AKADEMISI
-http://on7.media:8080/aydar/b7p6rzZhEU/379
-#EXTINF:-1,BOXET.JACKIE CHAN
-http://on7.media:8080/aydar/b7p6rzZhEU/380
-#EXTINF:-1,BOXET:TESTERE
-http://on7.media:8080/aydar/b7p6rzZhEU/381
-#EXTINF:-1,BOXET:KARANLIKLAR ULKESI
-http://on7.media:8080/aydar/b7p6rzZhEU/382
-#EXTINF:-1,TR: ELIT ANKARA MÜZIK
-http://on7.media:8080/aydar/b7p6rzZhEU/60
-#EXTINF:-1,TR: ELIT ARABESK
-http://on7.media:8080/aydar/b7p6rzZhEU/70
-#EXTINF:-1,TR: ELIT POP
-http://on7.media:8080/aydar/b7p6rzZhEU/80
-#EXTINF:-1,TR: ELIT SLOW
-http://on7.media:8080/aydar/b7p6rzZhEU/92
-#EXTINF:-1,TR: METROPOL ANKARA
-http://on7.media:8080/aydar/b7p6rzZhEU/101
-#EXTINF:-1,TR: METROPOL KARADENIZ
-http://on7.media:8080/aydar/b7p6rzZhEU/102
-#EXTINF:-1,TR: METROPOL NOSTALJI RADYO
-http://on7.media:8080/aydar/b7p6rzZhEU/104
-#EXTINF:-1,TR: METROPOL POP RADYO
-http://on7.media:8080/aydar/b7p6rzZhEU/105
-#EXTINF:-1,TR: METROPOL SLOW RADYO
-http://on7.media:8080/aydar/b7p6rzZhEU/106
-#EXTINF:-1,TR: METROPOL TURKU RADYO
-http://on7.media:8080/aydar/b7p6rzZhEU/107
-#EXTINF:-1,TR: ELIT POP
-http://on7.media:8080/aydar/b7p6rzZhEU/108
-#EXTINF:-1,TR: METROPOL MUZIK
-http://on7.media:8080/aydar/b7p6rzZhEU/103
-#EXTINF:-1,TR: ELİT KARADENİZ
-http://on7.media:8080/aydar/b7p6rzZhEU/206
-#EXTINF:-1,TR: ELİT HİT
-http://on7.media:8080/aydar/b7p6rzZhEU/207
-#EXTINF:-1,TR : ELİT RAP
-http://on7.media:8080/aydar/b7p6rzZhEU/208
-#EXTINF:-1,TR: ELIT BELGESEL 1
-http://on7.media:8080/aydar/b7p6rzZhEU/62
-#EXTINF:-1,TR: ELIT BELGESEL 2
-http://on7.media:8080/aydar/b7p6rzZhEU/63
-#EXTINF:-1,TR: ELIT BELGESEL 3
-http://on7.media:8080/aydar/b7p6rzZhEU/64
-#EXTINF:-1,DE: BARBİE
-http://on7.media:8080/aydar/b7p6rzZhEU/138
-#EXTINF:-1,DE: BARBİE 2
-http://on7.media:8080/aydar/b7p6rzZhEU/139
-#EXTINF:-1,DE: BEJAMIN BLUCHMEN
-http://on7.media:8080/aydar/b7p6rzZhEU/140
-#EXTINF:-1,DE: Calliou
-http://on7.media:8080/aydar/b7p6rzZhEU/141
-#EXTINF:-1,DE: Conni
-http://on7.media:8080/aydar/b7p6rzZhEU/142
-#EXTINF:-1,DE: Darkwing
-http://on7.media:8080/aydar/b7p6rzZhEU/143
-#EXTINF:-1,DE: Chip Und Chap
-http://on7.media:8080/aydar/b7p6rzZhEU/144
-#EXTINF:-1,DE: Guardians
-http://on7.media:8080/aydar/b7p6rzZhEU/145
-#EXTINF:-1,DE: Jackie Chan
-http://on7.media:8080/aydar/b7p6rzZhEU/146
-#EXTINF:-1,DE: IpMan
-http://on7.media:8080/aydar/b7p6rzZhEU/147
-#EXTINF:-1,DE: Kikanichen
-http://on7.media:8080/aydar/b7p6rzZhEU/150
-#EXTINF:-1,DE: King Julien
-http://on7.media:8080/aydar/b7p6rzZhEU/151
-#EXTINF:-1,DE: Peppa Wutz
-http://on7.media:8080/aydar/b7p6rzZhEU/152
-#EXTINF:-1,DE: Dark
-http://on7.media:8080/aydar/b7p6rzZhEU/157
-#EXTINF:-1,DE: Ever After High
-http://on7.media:8080/aydar/b7p6rzZhEU/158
-#EXTINF:-1,DE: Masha
-http://on7.media:8080/aydar/b7p6rzZhEU/159
-#EXTINF:-1,DE: 4 Blocks
-http://on7.media:8080/aydar/b7p6rzZhEU/160
-#EXTINF:-1,DE: Chip und Toffel
-http://on7.media:8080/aydar/b7p6rzZhEU/161
-#EXTINF:-1,DE: Car City
-http://on7.media:8080/aydar/b7p6rzZhEU/162
-#EXTINF:-1,DE: Bob Der Baumeister
-http://on7.media:8080/aydar/b7p6rzZhEU/163
-#EXTINF:-1,DE: Lauras Stern
-http://on7.media:8080/aydar/b7p6rzZhEU/164
-#EXTINF:-1,DE: Tarzan und Jane
-http://on7.media:8080/aydar/b7p6rzZhEU/165
-#EXTINF:-1,DE: Babylon Berlin
-http://on7.media:8080/aydar/b7p6rzZhEU/166
-#EXTINF:-1,DE: Mr Bean
-http://on7.media:8080/aydar/b7p6rzZhEU/180
-#EXTINF:-1,DE: Lucifer
-http://on7.media:8080/aydar/b7p6rzZhEU/181
-#EXTINF:-1,DE: Full House
-http://on7.media:8080/aydar/b7p6rzZhEU/182
-#EXTINF:-1,DE: Elite
-http://on7.media:8080/aydar/b7p6rzZhEU/183
-#EXTINF:-1,DE: Two and A Half Men
-http://on7.media:8080/aydar/b7p6rzZhEU/184
-#EXTINF:-1,DE: The Mandalorian
-http://on7.media:8080/aydar/b7p6rzZhEU/194
-#EXTINF:-1,DE: Uberweihnachten
-http://on7.media:8080/aydar/b7p6rzZhEU/195
-#EXTINF:-1,DE: 2 Broke Girls
-http://on7.media:8080/aydar/b7p6rzZhEU/196
-#EXTINF:-1,DE: Lovecraft Country
-http://on7.media:8080/aydar/b7p6rzZhEU/197
-#EXTINF:-1,DE: Sweet Home 
-http://on7.media:8080/aydar/b7p6rzZhEU/198
-#EXTINF:-1,DE: Alle Unter Einem Dach
-http://on7.media:8080/aydar/b7p6rzZhEU/203
-#EXTINF:-1,SP: DOCUMENTAL
-http://on7.media:8080/aydar/b7p6rzZhEU/189
-#EXTINF:-1,SP: TERROR
-http://on7.media:8080/aydar/b7p6rzZhEU/191
-#EXTINF:-1,SP: THRILLER
-http://on7.media:8080/aydar/b7p6rzZhEU/192
-#EXTINF:-1,SP: WESTERN
-http://on7.media:8080/aydar/b7p6rzZhEU/193
-#EXTINF:-1,SP: CLASICOS
-http://on7.media:8080/aydar/b7p6rzZhEU/199
-#EXTINF:-1,SP: AVENTURA
-http://on7.media:8080/aydar/b7p6rzZhEU/200
-#EXTINF:-1,SP: DRAMA
-http://on7.media:8080/aydar/b7p6rzZhEU/201
-#EXTINF:-1,SP: COMEDIA
-http://on7.media:8080/aydar/b7p6rzZhEU/202
-
-
-
-
-
-=====================================================================================
 #EXTINF:-1,Betterhealth
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
-
-
-
 #EXTINF:-1,Red Bull TV
 http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 #EXTINF:-1,Red Bull TV
@@ -561,17 +274,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1,RED BULL TV OPT 1
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,INT: 100% Auto Moto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1,USA: Horizon Sports
@@ -582,18 +284,10 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/low/c.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
 #EXTINF:-1,Ring of Honor (STIRR) (720p)
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
-
 #EXTINF:-1,Impact Wrestling
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1,euro Chanel 2
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-#EXTINF:-1,euro chanel 6
-https://de623a8b9bacb203.mediapackage.ap-southeast-1.amazonaws.com/out/v1/53d302267cd64627b5cbea771338f857/index.m3u8
 #EXTINF:-1,euro Chanel 11
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-#EXTINF:-1,euro Chanel 13
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1,RedBullTv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,OneGolf
@@ -618,27 +312,18 @@ https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 #EXTINF:-1,CCX1
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1,Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
-------------FashionTV--------------
-
-
 #EXTINF:-1,FashionTV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,FashionTV 2
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 #EXTINF:-1,FashionTV 3
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-
 #EXTINF:-1,HD Fashion & Lifestyle UA
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-
 #EXTINF:-1,INT:Fashion TV (Slovakia)
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1,Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-
 #EXTINF:-1,Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1,Fashion TV L'Original
@@ -675,12 +360,8 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1,HDFashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
-
-
-
-
-------news------
-
+#EXTINF:-1,Fashion One (4K)
+http://31.131.136.5:9013/play/a004
 #EXTINF:-1,Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 #EXTINF:-1,France 24 English
