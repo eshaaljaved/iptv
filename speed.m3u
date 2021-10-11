@@ -362,6 +362,20 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
 #EXTINF:-1,Fashion One (4K)
 http://31.131.136.5:9013/play/a004
+#EXTINF:-1,Fashion TV Midnite Secrets SD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1,Fashion TV PG13 SD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
+#EXTINF:-1,Fashion TV PG16 SD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1,Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 #EXTINF:-1,France 24 English
