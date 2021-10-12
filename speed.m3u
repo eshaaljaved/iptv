@@ -145,6 +145,9 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1,BHtv
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
+#EXTINF:-1,MovieSphere | HD
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,BHtv
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,BBC Toronto Gaunda Punjab
@@ -215,7 +218,7 @@ http://103.153.39.34:8000/play/a04r/index.m3u8
 
 
 
-...............................................
+##################discover#######################################
 #EXTINF:-1, $ Discovery
 http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
 #EXTINF:-1, Discovery German TVRI Nasional
@@ -228,9 +231,22 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 http://89.38.8.131:39520
 #EXTINF:-1,This Old House
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=618&deviceId=5d51e791b7dba3b2ae990ab2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1,CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1,Shout! Factory TV | HD
+https://shoutfactory-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,This Old House HD
+http://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,NASA TV | Webstream
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1,NASA TV 1 (Public)
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1,NASA TV 2 (Media)
+http://hls.ums.ustream.tv/playlist/directhls/channel/10414700/playlist.m3u8?sgn=57455aba98cbb70ca5cd6606142f1ec0b10aef6b
+#EXTINF:-1,NASA TV 3 (Earth from ISS)
+http://hls.ums.ustream.tv/playlist/directhls/channel/17074538/playlist.m3u8?sgn=23d01ff63b69b7f4c64f8b170e0cbf8b196af2da
 
-
-
+##################################################################
 
 
 .................QVC---------------------------
