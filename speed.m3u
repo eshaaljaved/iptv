@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="HUM TVHD" tvg-logo="" group-title="Channel",HUM TVHD
-http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HUM-TV-LOCKLE" tvg-logo="" group-title="Channel",HUM-TV-LOCKLE
-http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="play-entertainment" tvg-logo="" group-title="Channel",play-entertainment
-https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="Hum-Sitaray" tvg-logo="" group-title="Channel",Hum-Sitaray
-https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="aplusp1" tvg-logo="" group-title="Channel",aplusp1
-https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplusp1/chunks.m3u8
 #EXTINF:-1 tvg-id="bhtv.ba" tvg-name="BHtv" tvg-logo="" group-title="Channel",BHtv
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="СТВ" tvg-logo="" group-title="Channel",СТВ
@@ -39,8 +29,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV LOriginal" tvg-logo="" group-title="Fashion TV",Fashion TV LOriginal
 https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV LOriginal" tvg-logo="" group-title="Fashion TV",Fashion TV Midnite Secrets
-
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV Midnite Secrets" tvg-logo="" group-title="Fashion TV",Fashion TV Midnite Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV Midnite Secrets" tvg-logo="" group-title="Fashion TV",Fashion TV Midnite Secrets
@@ -377,3 +365,13 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Horizon Sports" tvg-logo="" group-title="Sports",Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="humtvhd.92" tvg-name="HUM TVHD" tvg-logo="" group-title="Pakistan",HUM TVHD
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="humtvlockle.92" tvg-name="HUM-TV-LOCKLE" tvg-logo="" group-title="Pakistan",HUM-TV-LOCKLE
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="playentertainment.92" tvg-name="play-entertainment" tvg-logo="" group-title="Pakistan",play-entertainment
+https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="humsitaray.92" tvg-name="Hum-Sitaray" tvg-logo="" group-title="Pakistan",Hum-Sitaray
+https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="aplusp1.92" tvg-name="aplusp1" tvg-logo="" group-title="Pakistan",aplusp1
+https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplusp1/chunks.m3u8
