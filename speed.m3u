@@ -391,3 +391,10 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t
 https://cdn.ta.tapmad.com/taptv/e55f96be5826f0a56e8b0ce8ea8a0db6.sdp/playlist.m3u8
 #EXTINF:-1 ,aaj-entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8?
+
+#EXTINF:-1 ,Harpalgeo
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist_dvr.m3u8
+#EXTINF:-1 ,Geo Kahani Live
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist_dvr.m3u8
+
+#EXTINF:-1 ,
