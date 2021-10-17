@@ -387,3 +387,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/playlist_dvr.m3u8
 #EXTINF:-1 ,National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 ,film-world
+https://cdn.ta.tapmad.com/taptv/e55f96be5826f0a56e8b0ce8ea8a0db6.sdp/playlist.m3u8
+#EXTINF:-1 ,aaj-entertainment
+https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8?
