@@ -456,7 +456,15 @@ https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8?
 
 #EXTINF:-1,see-tv
 https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/playlist.m3u8?
+#EXTINF:-1,arydigital
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
+#EXTINF:-1,YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1,UMAX UHD
+http://1.255.204.45:9981/stream/channelid/481289914
+#EXTINF:-1,UXN UHD
+http://1.255.204.45:9981/stream/channelid/873335828
 
 #EXTINF:-1 ,
 
