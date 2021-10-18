@@ -418,7 +418,44 @@ https://cdn.ta.tapmad.com/taptv/e268c9dd7cc5bc7f13ea96e8ea653b83.sdp/taptv/disco
 
 #EXTINF:-1,Baby Tv
 https://cdn.ta.tapmad.com/taptv/f388295d92b478457e91bcd9516b9944.sdp/taptv/babytvp1/chunks.m3u8
+#EXTINF:-1,cartoon-network-english
+https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone1/chunks.m3u8
 
+#EXTINF:-1,Cartoon-network-urdu
+
+https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone1/chunks.m3u8
+
+#EXTINF:-1,Discover Kids
+https://cdn.ta.tapmad.com/taptv/e268c9dd7cc5bc7f13ea96e8ea653b83.sdp/taptv/discoverykide1/chunks.m3u8
+
+
+#EXTINF:-1,Baby Tv
+https://cdn.ta.tapmad.com/taptv/f388295d92b478457e91bcd9516b9944.sdp/taptv/babytvp1/chunks.m3u8
+
+
+#EXTINF:-1,Aplus
+https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplusp1/chunks.m3u8
+
+
+
+#EXTINF:-1,aaj-news
+https://cdn.ta.tapmad.com/taptv/f714537cf85fa375b4e045894494e567.sdp/taptv/aajnewsp3/chunks.m3u8
+
+
+#EXTINF:-1,Atv
+
+https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
+
+#EXTINF:-1,Discover-pakistan
+https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8
+
+
+#EXTINF:-1,channel-24
+
+https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8?
+
+#EXTINF:-1,see-tv
+https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/playlist.m3u8?
 
 
 #EXTINF:-1 ,
