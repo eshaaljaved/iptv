@@ -13,6 +13,86 @@ http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="My TV Channel" tvg-logo="" group-title="Channel",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature East" tvg-logo="" group-title="Channel",HBO Signature East
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="Channel",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="" group-title="Channel",HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED HBO" tvg-logo="" group-title="Channel",RED HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GEO News" tvg-logo="" group-title="Channel",GEO News
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="film-world" tvg-logo="" group-title="Channel",film-world
+https://cdn.ta.tapmad.com/taptv/e55f96be5826f0a56e8b0ce8ea8a0db6.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="aaj-entertainment" tvg-logo="" group-title="Channel",aaj-entertainment
+https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Harpalgeo" tvg-logo="" group-title="Channel",Harpalgeo
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Geo Kahani Live" tvg-logo="" group-title="Channel",Geo Kahani Live
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="samaa-news" tvg-logo="" group-title="Channel",samaa-news
+https://cdn.ta.tapmad.com/tapmadpak/162fb5557ed6ce73e04fe3588b2b0ed5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="pk-geo-super" tvg-logo="" group-title="Channel",pk-geo-super
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="har-pal-geo" tvg-logo="" group-title="Channel",har-pal-geo
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="cartoon-network-english" tvg-logo="" group-title="Channel",cartoon-network-english
+https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon-network-urdu" tvg-logo="" group-title="Channel",Cartoon-network-urdu
+https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discover Kids" tvg-logo="" group-title="Channel",Discover Kids
+https://cdn.ta.tapmad.com/taptv/e268c9dd7cc5bc7f13ea96e8ea653b83.sdp/taptv/discoverykide1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby Tv" tvg-logo="" group-title="Channel",Baby Tv
+https://cdn.ta.tapmad.com/taptv/f388295d92b478457e91bcd9516b9944.sdp/taptv/babytvp1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="cartoon-network-english" tvg-logo="" group-title="Channel",cartoon-network-english
+https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon-network-urdu" tvg-logo="" group-title="Channel",Cartoon-network-urdu
+https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discover Kids" tvg-logo="" group-title="Channel",Discover Kids
+https://cdn.ta.tapmad.com/taptv/e268c9dd7cc5bc7f13ea96e8ea653b83.sdp/taptv/discoverykide1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby Tv" tvg-logo="" group-title="Channel",Baby Tv
+https://cdn.ta.tapmad.com/taptv/f388295d92b478457e91bcd9516b9944.sdp/taptv/babytvp1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aplus" tvg-logo="" group-title="Channel",Aplus
+https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplusp1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="aaj-news" tvg-logo="" group-title="Channel",aaj-news
+https://cdn.ta.tapmad.com/taptv/f714537cf85fa375b4e045894494e567.sdp/taptv/aajnewsp3/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atv" tvg-logo="" group-title="Channel",Atv
+https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discover-pakistan" tvg-logo="" group-title="Channel",Discover-pakistan
+https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="channel-24" tvg-logo="" group-title="Channel",channel-24
+https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="see-tv" tvg-logo="" group-title="Channel",see-tv
+https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="arydigital" tvg-logo="" group-title="Channel",arydigital
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YTN Science" tvg-logo="" group-title="Channel",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UMAX UHD" tvg-logo="" group-title="Channel",UMAX UHD
+http://1.255.204.45:9981/stream/channelid/481289914
+#EXTINF:-1 tvg-id="" tvg-name="UXN UHD" tvg-logo="" group-title="Channel",UXN UHD
+http://1.255.204.45:9981/stream/channelid/873335828
+#EXTINF:-1 tvg-id="" tvg-name="ABC 15 Phoenix AZ (KNXV-TV) (720p)" tvg-logo="" group-title="Channel",ABC 15 Phoenix AZ (KNXV-TV) (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="羚國CGTN（Opt-1）" tvg-logo="" group-title="Channel",羚國CGTN（Opt-1）
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD 52" tvg-logo="" group-title="Channel",FOOD 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="itv" tvg-logo="" group-title="Channel",itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="" tvg-name="Sony six" tvg-logo="" group-title="Channel",Sony six
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony ten1" tvg-logo="" group-title="Channel",Sony ten1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony ten 2" tvg-logo="" group-title="Channel",Sony ten 2
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star sports 1" tvg-logo="" group-title="Channel",Star sports 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star sports selected 1" tvg-logo="" group-title="Channel",Star sports selected 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star sports selected 2" tvg-logo="" group-title="Channel",Star sports selected 2
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HD Fashion & Lifestyle UA" tvg-logo="" group-title="Fashion TV",HD Fashion & Lifestyle UA
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV (Slovakia)" tvg-logo="" group-title="Fashion TV",Fashion TV (Slovakia)
@@ -375,151 +455,35 @@ https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8?
 https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="aplusp1.92" tvg-name="aplusp1" tvg-logo="" group-title="Pakistan",aplusp1
 https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplusp1/chunks.m3u8
-#EXTINF:-1 ,HBO Signature East
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 , HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 , HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 , RED HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 ,GEO News
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/playlist_dvr.m3u8
-#EXTINF:-1 ,National Geographic Abu Dhabi
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="National Geographic Abu Dhabi" tvg-logo="" group-title="Dubai",National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 ,film-world
-https://cdn.ta.tapmad.com/taptv/e55f96be5826f0a56e8b0ce8ea8a0db6.sdp/playlist.m3u8
-#EXTINF:-1 ,aaj-entertainment
-https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8?
-
-#EXTINF:-1 ,Harpalgeo
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist_dvr.m3u8
-#EXTINF:-1 ,Geo Kahani Live
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist_dvr.m3u8
-
-#EXTINF:-1 ,samaa-news
-https://cdn.ta.tapmad.com/tapmadpak/162fb5557ed6ce73e04fe3588b2b0ed5.sdp/playlist.m3u8
-
-#EXTINF:-1 ,pk-geo-super
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
-
-#EXTINF:-1 ,har-pal-geo
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8
-#EXTINF:-1,cartoon-network-english
-https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone1/chunks.m3u8
-
-#EXTINF:-1,Cartoon-network-urdu
-
-https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone1/chunks.m3u8
-
-#EXTINF:-1,Discover Kids
-https://cdn.ta.tapmad.com/taptv/e268c9dd7cc5bc7f13ea96e8ea653b83.sdp/taptv/discoverykide1/chunks.m3u8
-
-
-#EXTINF:-1,Baby Tv
-https://cdn.ta.tapmad.com/taptv/f388295d92b478457e91bcd9516b9944.sdp/taptv/babytvp1/chunks.m3u8
-#EXTINF:-1,cartoon-network-english
-https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone1/chunks.m3u8
-
-#EXTINF:-1,Cartoon-network-urdu
-
-https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone1/chunks.m3u8
-
-#EXTINF:-1,Discover Kids
-https://cdn.ta.tapmad.com/taptv/e268c9dd7cc5bc7f13ea96e8ea653b83.sdp/taptv/discoverykide1/chunks.m3u8
-
-
-#EXTINF:-1,Baby Tv
-https://cdn.ta.tapmad.com/taptv/f388295d92b478457e91bcd9516b9944.sdp/taptv/babytvp1/chunks.m3u8
-
-
-#EXTINF:-1,Aplus
-https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplusp1/chunks.m3u8
-
-
-
-#EXTINF:-1,aaj-news
-https://cdn.ta.tapmad.com/taptv/f714537cf85fa375b4e045894494e567.sdp/taptv/aajnewsp3/chunks.m3u8
-
-
-#EXTINF:-1,Atv
-
-https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
-
-#EXTINF:-1,Discover-pakistan
-https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8
-
-
-#EXTINF:-1,channel-24
-
-https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8?
-
-#EXTINF:-1,see-tv
-https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/playlist.m3u8?
-#EXTINF:-1,arydigital
-https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-
-#EXTINF:-1,YTN Science
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1,UMAX UHD
-http://1.255.204.45:9981/stream/channelid/481289914
-#EXTINF:-1,UXN UHD
-http://1.255.204.45:9981/stream/channelid/873335828
-#EXTINF:-1,ABC 15 Phoenix AZ (KNXV-TV) (720p)
-https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1, 美國CGTN（Opt-1）
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,FOOD 52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1,Dubai Sports
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports" tvg-logo="" group-title="Dubai",Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklis.m3u8
-#EXTINF:-1,Dubai Sports 1
+#EXTINF:-1 tvg-id="DubaiSports1En.ae" tvg-name="Dubai Sports 1" tvg-logo="" group-title="Dubai",Dubai Sports 1
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
-#EXTINF:-1,Dubai Sports 2
+#EXTINF:-1 tvg-id="DubaiSports2En.ae" tvg-name="Dubai Sports 2" tvg-logo="" group-title="Dubai",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1,Dubai Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 3" tvg-logo="" group-title="Dubai",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1,Dubai Racing
+#EXTINF:-1 tvg-id="DubaiRacingEn.ae" tvg-name="Dubai Racing" tvg-logo="" group-title="Dubai",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1,itv
-http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
-#EXTINF:-1,Dubai one
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-name="Dubai one" tvg-logo="" group-title="Dubai",Dubai one
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
-#EXTINF:-1,DUBAI ONE
+#EXTINF:-1 tvg-id="DubaiOneEn.ae" tvg-name="DUBAI ONE" tvg-logo="" group-title="Dubai",DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1,DUBAI RACING 1
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI RACING 1" tvg-logo="" group-title="Dubai",DUBAI RACING 1
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1,DUBAI RACING 2
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI RACING 2" tvg-logo="" group-title="Dubai",DUBAI RACING 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1,DUBAI RACING 3
+#EXTINF:-1 tvg-id="AbuDhabiSports3En.ae" tvg-name="DUBAI RACING 3" tvg-logo="" group-title="Dubai",DUBAI RACING 3
 http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1,DUBAI SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 1" tvg-logo="" group-title="Dubai",DUBAI SPORTS 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
-#EXTINF:-1,DUBAI SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 2" tvg-logo="" group-title="Dubai",DUBAI SPORTS 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1,DUBAI SPORTS 3
+#EXTINF:-1 tvg-id="AbuDhabiSports3En.ae" tvg-name="DUBAI SPORTS 3" tvg-logo="" group-title="Dubai",DUBAI SPORTS 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1,DUBAI TV
+#EXTINF:-1 tvg-id="	DubaiZaman.ae" tvg-name="DUBAI TV" tvg-logo="" group-title="Dubai",DUBAI TV
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1,DUBAI ZAMAN
+#EXTINF:-1 tvg-id="dubaizamanEn.ae" tvg-name="DUBAI ZAMAN" tvg-logo="" group-title="Dubai",DUBAI ZAMAN
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist.m3u8
-#EXTINF:-1,Sony six
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.m3u8
-#EXTINF:-1,Sony ten1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.m3u8
-#EXTINF:-1,Sony ten 2
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.m3u8
-#EXTINF:-1,Star sports 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
-#EXTINF:-1,Star sports selected 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
-#EXTINF:-1,Star sports selected 2
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
