@@ -469,7 +469,52 @@ http://1.255.204.45:9981/stream/channelid/873335828
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
 #EXTINF:-1, 美國CGTN（Opt-1）
 http://live.cgtn.com/500/prog_index.m3u8
-
+#EXTINF:-1,FOOD 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklis.m3u8
+#EXTINF:-1,Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
+#EXTINF:-1,Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1,Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1,itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
+#EXTINF:-1,Dubai one
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:-1,DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1,DUBAI RACING 1
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1,DUBAI RACING 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1,DUBAI RACING 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1,DUBAI SPORTS 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+#EXTINF:-1,DUBAI SPORTS 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1,DUBAI SPORTS 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1,DUBAI TV
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTINF:-1,DUBAI ZAMAN
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist.m3u8
+#EXTINF:-1,Sony six
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.m3u8
+#EXTINF:-1,Sony ten1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.m3u8
+#EXTINF:-1,Sony ten 2
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.m3u8
+#EXTINF:-1,Star sports 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
+#EXTINF:-1,Star sports selected 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
+#EXTINF:-1,Star sports selected 2
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
 
 #EXTINF:-1 ,
 
