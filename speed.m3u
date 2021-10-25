@@ -447,13 +447,13 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Horizon Sports" tvg-logo="" group-title="Sports",Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="hum.tv.ini" tvg-name="HUM TVHD" tvg-logo="" group-title="Pakistan",HUM TVHD
+#EXTINF:-1 tvg-id="hum.tv.ini" tvg-name="HUM TVHD" tvg-logo="https://www.hum.tv/wp-content/uploads/2020/11/logo.png" group-title="Pakistan",HUM TVHD
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="humtvlockle.92" tvg-name="HUM-TV-LOCKLE" tvg-logo="" group-title="Pakistan",HUM-TV-LOCKLE
+#EXTINF:-1 tvg-id="humtvlockle.92" tvg-name="HUM-TV-LOCKLE" tvg-logo="https://www.hum.tv/wp-content/uploads/2020/11/logo.png" group-title="Pakistan",HUM-TV-LOCKLE
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="play-entertainment" tvg-logo="" group-title="Pakistan",play-entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8?
-#EXTINF:-1 tvg-id="Hum Sitaray" tvg-name="Hum-Sitaray" tvg-logo="" group-title="Pakistan",Hum-Sitaray
+#EXTINF:-1 tvg-id="Hum Sitaray" tvg-name="Hum-Sitaray" tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Pakistan",Hum-Sitaray
 https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="aplusp1" tvg-logo="" group-title="Pakistan",aplusp1
 https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplusp1/chunks.m3u8
