@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@eshaaljaved 
-eshaaljaved
-/
-iptv
-Public
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-iptv/speed.m3u
-@eshaaljaved
-eshaaljaved Update speed.m3u
-Latest commit fea20ed 1 hour ago
- History
- 1 contributor
-490 lines (490 sloc)  42.8 KB
    
 #EXTM3U
 url-tvg="https://raw.githubusercontent.com/eshaaljaved/iptv/master/geotv.xml"
