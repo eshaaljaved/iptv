@@ -1,3 +1,34 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@eshaaljaved 
+eshaaljaved
+/
+iptv
+Public
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+iptv/speed.m3u
+@eshaaljaved
+eshaaljaved Update speed.m3u
+Latest commit fea20ed 1 hour ago
+ History
+ 1 contributor
+490 lines (490 sloc)  42.8 KB
+   
 #EXTM3U
 url-tvg="https://raw.githubusercontent.com/eshaaljaved/iptv/master/geotv.xml"
 #EXTINF:-1 tvg-id="bhtv.ba" tvg-name="BHtv" tvg-logo="" group-title="Channel",BHtv
@@ -452,7 +483,7 @@ http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="play-entertainment" tvg-logo="" group-title="Pakistan",play-entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8?
-#EXTINF:-1 tvg-id="humsitaray.tv.ini" tvg-name="Hum-Sitaray" tvg-logo="" group-title="Pakistan",Hum-Sitaray
+#EXTINF:-1 tvg-id="Hum Sitaray" tvg-name="Hum-Sitaray" tvg-logo="" group-title="Pakistan",Hum-Sitaray
 https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="aplusp1" tvg-logo="" group-title="Pakistan",aplusp1
 https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplusp1/chunks.m3u8
