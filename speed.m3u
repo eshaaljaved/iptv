@@ -1,4 +1,5 @@
 #EXTM3U
+url-tvg="https://github.com/eshaaljaved/iptv/blob/master/geotv.xml"
 #EXTINF:-1 tvg-id="bhtv.ba" tvg-name="BHtv" tvg-logo="" group-title="Channel",BHtv
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="СТВ" tvg-logo="" group-title="Channel",СТВ
@@ -29,7 +30,7 @@ https://cdn.ta.tapmad.com/taptv/e55f96be5826f0a56e8b0ce8ea8a0db6.sdp/playlist.m3
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Harpalgeo" tvg-logo="" group-title="Channel",Harpalgeo
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Geo Kahani Live" tvg-logo="" group-title="Channel",Geo Kahani Live
+#EXTINF:-1 tvg-id="Geokahani" tvg-name="Geo Kahani Live" tvg-logo="" group-title="Channel",Geo Kahani Live
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="samaa-news" tvg-logo="" group-title="Channel",samaa-news
 https://cdn.ta.tapmad.com/tapmadpak/162fb5557ed6ce73e04fe3588b2b0ed5.sdp/playlist.m3u8
