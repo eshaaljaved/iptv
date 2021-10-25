@@ -1,496 +1,1006 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Geokahani">
-    <display-name lang="en">Geokahani</display-name>
-    <url>http://www.geokahani.tv</url>
+  <channel id="Hum TV">
+    <display-name lang="en">Hum TV</display-name>
+    <url>http://www.hum.tv</url>
   </channel>
-  <programme start="20211025000000 +0500" stop="20211025005900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi</title>
+  <channel id="Hum Sitaray">
+    <display-name lang="en">Hum Sitaray</display-name>
+    <url>http://www.humsitaray.tv</url>
+  </channel>
+  <channel id="Har Pal Geo">
+    <display-name lang="ur">Har Pal Geo</display-name>
+    <url>http://www.harpalgeo.tv</url>
+  </channel>
+  <channel id="Arydigital">
+    <display-name lang="en">Arydigital</display-name>
+    <url>http://www.arydigital.tv</url>
+  </channel>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211025010000 +0500" stop="20211025015900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211025020000 +0500" stop="20211025025900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211025030000 +0500" stop="20211025035900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211025040000 +0500" stop="20211025042900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211025043000 +0500" stop="20211025052900 +0500" channel="Geokahani">
-    <title lang="en">Quran Sab Ke Liye</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211025053000 +0500" stop="20211025055900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mohabbat Subh Ka Sitara</title>
   </programme>
-  <programme start="20211025060000 +0500" stop="20211025065900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211025070000 +0500" stop="20211025075900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211025080000 +0500" stop="20211025080500 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211025090000 +0500" stop="20211025095900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211025100000 +0500" stop="20211025105900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211025110000 +0500" stop="20211025115900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211025120000 +0500" stop="20211025122900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211025123000 +0500" stop="20211025125900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mehram</title>
   </programme>
-  <programme start="20211025130000 +0500" stop="20211025135900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211025140000 +0500" stop="20211025145900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211025150000 +0500" stop="20211025155900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211025160000 +0500" stop="20211025165900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211025170000 +0500" stop="20211025175900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211025180000 +0500" stop="20211025182900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211025183000 +0500" stop="20211025185900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211025190000 +0500" stop="20211025195900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Janam Jali</title>
   </programme>
-  <programme start="20211025200000 +0500" stop="20211025205900 +0500" channel="Geokahani">
-    <title lang="en">Uraan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211025210000 +0500" stop="20211025215900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211025220000 +0500" stop="20211025225900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211025230000 +0500" stop="20211025235900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211026000000 +0500" stop="20211026005900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211026010000 +0500" stop="20211026015900 +0500" channel="Geokahani">
-    <title lang="en">Uraan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211026020000 +0500" stop="20211026025900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211026030000 +0500" stop="20211026035900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mere Meharban</title>
   </programme>
-  <programme start="20211026040000 +0500" stop="20211026042900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211026043000 +0500" stop="20211026052900 +0500" channel="Geokahani">
-    <title lang="en">Quran Sab Ke Liye</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211026053000 +0500" stop="20211026055900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211026060000 +0500" stop="20211026065900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211026070000 +0500" stop="20211026075900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211026080000 +0500" stop="20211026085900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211026090000 +0500" stop="20211026095900 +0500" channel="Geokahani">
-    <title lang="en">Uraan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211026100000 +0500" stop="20211026105900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Na Kaho Tum mere Nahi</title>
   </programme>
-  <programme start="20211026110000 +0500" stop="20211026115900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Bcw 2017</title>
   </programme>
-  <programme start="20211026120000 +0500" stop="20211026122900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211026123000 +0500" stop="20211026125900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Zindagi Gulzar Hai</title>
   </programme>
-  <programme start="20211026130000 +0500" stop="20211026135900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mausam</title>
   </programme>
-  <programme start="20211026140000 +0500" stop="20211026145900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Q Mobile Hum Showcase 2017</title>
   </programme>
-  <programme start="20211026150000 +0500" stop="20211026155900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Extra</title>
   </programme>
-  <programme start="20211026160000 +0500" stop="20211026165900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Sadqay</title>
   </programme>
-  <programme start="20211026170000 +0500" stop="20211026175900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Isterab</title>
   </programme>
-  <programme start="20211026180000 +0500" stop="20211026182900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211026183000 +0500" stop="20211026185900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211026190000 +0500" stop="20211026195900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211026200000 +0500" stop="20211026205900 +0500" channel="Geokahani">
-    <title lang="en">Uraan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211026210000 +0500" stop="20211026215900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211026220000 +0500" stop="20211026225900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211026230000 +0500" stop="20211026235900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mohabbat Subh Ka Sitara</title>
   </programme>
-  <programme start="20211027000000 +0500" stop="20211027005900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211027010000 +0500" stop="20211027015900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211027020000 +0500" stop="20211027025900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211027030000 +0500" stop="20211027035900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211027040000 +0500" stop="20211027042900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211027043000 +0500" stop="20211027052900 +0500" channel="Geokahani">
-    <title lang="en">Quran Sab Ke Liye</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211027053000 +0500" stop="20211027055900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211027060000 +0500" stop="20211027065900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mehram</title>
   </programme>
-  <programme start="20211027070000 +0500" stop="20211027075900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211027080000 +0500" stop="20211027085900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211027090000 +0500" stop="20211027095900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211027100000 +0500" stop="20211027105900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211027110000 +0500" stop="20211027115900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211027120000 +0500" stop="20211027122900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211027123000 +0500" stop="20211027125900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211027130000 +0500" stop="20211027135900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Janam Jali</title>
   </programme>
-  <programme start="20211027140000 +0500" stop="20211027145900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211027150000 +0500" stop="20211027155900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211027160000 +0500" stop="20211027165900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211027170000 +0500" stop="20211027175900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211027180000 +0500" stop="20211027182900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211027183000 +0500" stop="20211027185900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211027190000 +0500" stop="20211027195900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211027200000 +0500" stop="20211027205900 +0500" channel="Geokahani">
-    <title lang="en">Uraan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mere Meharban</title>
   </programme>
-  <programme start="20211027210000 +0500" stop="20211027215900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211027220000 +0500" stop="20211027225900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211027230000 +0500" stop="20211027235900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211028000000 +0500" stop="20211028005900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211028010000 +0500" stop="20211028015900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211028020000 +0500" stop="20211028025900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211028030000 +0500" stop="20211028035900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211028040000 +0500" stop="20211028042900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Na Kaho Tum mere Nahi</title>
   </programme>
-  <programme start="20211028043000 +0500" stop="20211028052900 +0500" channel="Geokahani">
-    <title lang="en">Quran Sab Ke Liye</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Bcw 2017</title>
   </programme>
-  <programme start="20211028053000 +0500" stop="20211028055900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211028060000 +0500" stop="20211028065900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Zindagi Gulzar Hai</title>
   </programme>
-  <programme start="20211028070000 +0500" stop="20211028075900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mausam</title>
   </programme>
-  <programme start="20211028080000 +0500" stop="20211028085900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Q Mobile Hum Showcase 2017</title>
   </programme>
-  <programme start="20211028090000 +0500" stop="20211028095900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Extra</title>
   </programme>
-  <programme start="20211028100000 +0500" stop="20211028105900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Sadqay</title>
   </programme>
-  <programme start="20211028110000 +0500" stop="20211028115900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Isterab</title>
   </programme>
-  <programme start="20211028120000 +0500" stop="20211028122900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211028123000 +0500" stop="20211028125900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211028130000 +0500" stop="20211028135900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211028140000 +0500" stop="20211028145900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211028150000 +0500" stop="20211028155900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211028160000 +0500" stop="20211028165900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211028170000 +0500" stop="20211028175900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mohabbat Subh Ka Sitara</title>
   </programme>
-  <programme start="20211028180000 +0500" stop="20211028182900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211028183000 +0500" stop="20211028185900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211028190000 +0500" stop="20211028195900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211028200000 +0500" stop="20211028205900 +0500" channel="Geokahani">
-    <title lang="en">Uraan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211028210000 +0500" stop="20211028215900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211028220000 +0500" stop="20211028225900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211028230000 +0500" stop="20211028235900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211029000000 +0500" stop="20211029005900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mehram</title>
   </programme>
-  <programme start="20211029010000 +0500" stop="20211029015900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211029020000 +0500" stop="20211029025900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211029030000 +0500" stop="20211029035900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211029040000 +0500" stop="20211029045900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211030040000 +0500" stop="20211030042900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211030043000 +0500" stop="20211030052900 +0500" channel="Geokahani">
-    <title lang="en">Quran Sab Ke Liye</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211030053000 +0500" stop="20211030055900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211030060000 +0500" stop="20211030065900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Janam Jali</title>
   </programme>
-  <programme start="20211030070000 +0500" stop="20211030075900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211030080000 +0500" stop="20211030085900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211030090000 +0500" stop="20211030095900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211030100000 +0500" stop="20211030105900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211030110000 +0500" stop="20211030115900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211030120000 +0500" stop="20211030122900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211030123000 +0500" stop="20211030125900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211030130000 +0500" stop="20211030135900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mere Meharban</title>
   </programme>
-  <programme start="20211030140000 +0500" stop="20211030145900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211030150000 +0500" stop="20211030155900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211030160000 +0500" stop="20211030165900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211030170000 +0500" stop="20211030175900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211030180000 +0500" stop="20211030182900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211030183000 +0500" stop="20211030185900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211030190000 +0500" stop="20211030195900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211030200000 +0500" stop="20211030205900 +0500" channel="Geokahani">
-    <title lang="en">Uraan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Na Kaho Tum mere Nahi</title>
   </programme>
-  <programme start="20211030210000 +0500" stop="20211030215900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Bcw 2017</title>
   </programme>
-  <programme start="20211030220000 +0500" stop="20211030225900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211030230000 +0500" stop="20211030235900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Zindagi Gulzar Hai</title>
   </programme>
-  <programme start="20211031000000 +0500" stop="20211031005900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mausam</title>
   </programme>
-  <programme start="20211031010000 +0500" stop="20211031015900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Q Mobile Hum Showcase 2017</title>
   </programme>
-  <programme start="20211031020000 +0500" stop="20211031025900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Extra</title>
   </programme>
-  <programme start="20211031030000 +0500" stop="20211031035900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Sadqay</title>
   </programme>
-  <programme start="20211031040000 +0500" stop="20211031042900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Isterab</title>
   </programme>
-  <programme start="20211031043000 +0500" stop="20211031052900 +0500" channel="Geokahani">
-    <title lang="en">Quran Sab Ke Liye</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211031053000 +0500" stop="20211031055900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211031060000 +0500" stop="20211031065900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211031070000 +0500" stop="20211031075900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211031080000 +0500" stop="20211031085900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211031090000 +0500" stop="20211031095900 +0500" channel="Geokahani">
-    <title lang="en">Uraan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211031100000 +0500" stop="20211031105900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mohabbat Subh Ka Sitara</title>
   </programme>
-  <programme start="20211031110000 +0500" stop="20211031115900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211031120000 +0500" stop="20211031122900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211031123000 +0500" stop="20211031125900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211031130000 +0500" stop="20211031135900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211031140000 +0500" stop="20211031145900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211031150000 +0500" stop="20211031155900 +0500" channel="Geokahani">
-    <title lang="en">Wrong No. 2</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211031160000 +0500" stop="20211031165900 +0500" channel="Geokahani">
-    <title lang="en">Wrong No. 2</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
   </programme>
-  <programme start="20211031170000 +0500" stop="20211031175900 +0500" channel="Geokahani">
-    <title lang="en">Wrong No. 2</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mehram</title>
   </programme>
-  <programme start="20211031180000 +0500" stop="20211031182900 +0500" channel="Geokahani">
-    <title lang="en">Shokhiyan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
   </programme>
-  <programme start="20211031183000 +0500" stop="20211031185900 +0500" channel="Geokahani">
-    <title lang="en">Dolly Darling</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211031190000 +0500" stop="20211031195900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
   </programme>
-  <programme start="20211031200000 +0500" stop="20211031205900 +0500" channel="Geokahani">
-    <title lang="en">Uraan</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
   </programme>
-  <programme start="20211031210000 +0500" stop="20211031215900 +0500" channel="Geokahani">
-    <title lang="en">Teri Behisi</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
   </programme>
-  <programme start="20211031220000 +0500" stop="20211031225900 +0500" channel="Geokahani">
-    <title lang="en">Main Agar Chup Hoon</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
   </programme>
-  <programme start="20211031230000 +0500" stop="20211031235900 +0500" channel="Geokahani">
-    <title lang="en">Mera Sultan (Rpt)</title>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Janam Jali</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mere Meharban</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Na Kaho Tum mere Nahi</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Bcw 2017</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Zindagi Gulzar Hai</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mausam</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Q Mobile Hum Showcase 2017</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Extra</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Sadqay</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Isterab</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mohabbat Subh Ka Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mehram</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Janam Jali</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mere Meharban</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Na Kaho Tum mere Nahi</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Bcw 2017</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Zindagi Gulzar Hai</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mausam</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Q Mobile Hum Showcase 2017</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Extra</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Sadqay</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Isterab</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mohabbat Subh Ka Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mehram</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Janam Jali</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mere Meharban</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Na Kaho Tum mere Nahi</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Bcw 2017</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Zindagi Gulzar Hai</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mausam</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Q Mobile Hum Showcase 2017</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Extra</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Sadqay</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Isterab</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mohabbat Subh Ka Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mehram</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Janam Jali</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mere Meharban</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Falak Aur Sitara</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Khoya Khoya Chand</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jhumka Jna</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Safeguard Animation</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Jahan Ara Begum</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Na Kaho Tum mere Nahi</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Bcw 2017</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Main Kitni Akeli Hoon</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Zindagi Gulzar Hai</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Mausam</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Q Mobile Hum Showcase 2017</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Extra</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Sadqay</title>
+  </programme>
+  <programme start="20211025000000 +0500" stop="20211025000000 +0500" channel="Hum Sitaray">
+    <title lang="en">Isterab</title>
   </programme>
 </tv>
